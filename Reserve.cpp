@@ -1,7 +1,5 @@
 /*
 Author:       Fatima Parada-Taboada
-Assignment:   Project 1
-Net ID:       fnp170130
 Description:  In preparation for the release of Avengers 4 next summer, you have been hired by the owner of a very
 			  small movie theater to develop the backend for an online ticket reservation system. The program should display
 			  the current seating arrangement and allow the patron to select seats. A report should be generated at the end of
